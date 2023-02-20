@@ -115,6 +115,8 @@ A curated list of free/pay-what-you-want plugins and tools for musicians :)
 > ![spectralcompressor](images/spectralcompressor.jpg)
 > 
 > This is like OTT but with a crazy amount of bands. absolutely crazy plugin, you can use it to bring out the best or the worst in your sounds I love it.
+> 
+> **⚠This plugin can get a bit crazy so please put a limiter after it for your first few times playing with it, don't damage your ears or your speakers!!!**
 
 > ### [Spectral Gate](https://www.andrewreeman.com/spectralsuite/) by [Andrew Reeman](https://github.com/andrewreeman) *(free) [[open source](https://github.com/andrewreeman/SpectralSuite)]*
 > 
