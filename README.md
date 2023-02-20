@@ -93,12 +93,13 @@ A curated list of free/pay-what-you-want plugins and tools for musicians :)
 > ### [LatticeReverb](https://github.com/ryukau/VSTPlugins/releases) by [Uhhyou](https://ryukau.github.io/VSTPlugins/) *(free) [[open source](https://github.com/ryukau/VSTPlugins)]*
 > 
 > ![LatticeReverb](images/latticereverb.jpg)
+> A very cool reverb, with a sound that's hard to match with anything else.
 
 > ### [Giant Verb](https://sites.google.com/site/digitalsystemic/home/giant-verb) by [Digital Systemic](https://sites.google.com/site/digitalsystemic/) *(free)*
 > 
 > ![giant verb.jpg](images/giant%20verb.jpg)
 > 
-> Probably the best sounding free "normal" (as in not weird) reverb I have found. Just perfect for vocals :)
+> Probably the best sounding free "normal" (as in not weird/specific) reverb I have found. Just perfect for vocals :)
 
 > ### [FDN64Reverb](https://github.com/ryukau/VSTPlugins/releases) by [Uhhyou](https://ryukau.github.io/VSTPlugins/) *(free) [[open source](https://github.com/ryukau/VSTPlugins)]*
 > 
