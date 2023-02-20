@@ -76,7 +76,7 @@ A curated list of free/pay-what-you-want plugins and tools for musicians :)
 > 
 > This is an obvious one but it's free and does the job pretty well so I thought I'd include it here.
 
-> ### [Diopser](https://github.com/robbert-vdh/nih-plug) by [Robbert van der Helm](https://github.com/robbert-vdh) *(free) [[open source](https://github.com/robbert-vdh/nih-plug)]*
+> ### [Diopser](https://nightly.link/robbert-vdh/nih-plug/workflows/build/master) by [Robbert van der Helm](https://github.com/robbert-vdh) *(free) [[open source](https://github.com/robbert-vdh/nih-plug)]*
 > 
 > ![diopser.jpg](images/diopser.jpg)
 > 
@@ -110,7 +110,7 @@ A curated list of free/pay-what-you-want plugins and tools for musicians :)
 
 ## Spectral plugins (that means they use [FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform))
 
-> ### [Spectral Compressor](https://github.com/robbert-vdh/nih-plug) by [Robbert van der Helm](https://github.com/robbert-vdh) *(free) [[open source](https://github.com/robbert-vdh/nih-plug)]*
+> ### [Spectral Compressor](https://nightly.link/robbert-vdh/nih-plug/workflows/build/master) by [Robbert van der Helm](https://github.com/robbert-vdh) *(free) [[open source](https://github.com/robbert-vdh/nih-plug)]*
 > 
 > ![spectralcompressor](images/spectralcompressor.jpg)
 > 
