@@ -26,7 +26,6 @@ A curated list of free/pay-what-you-want plugins and tools for musicians :)
 > 
 > **[▶ Demo video](https://www.youtube.com/watch?v=MH_rkK4keB8)**
 
-
 > ### [Prisma](https://vst.unplug.red/prisma) by [unplugred](https://vst.unplug.red) *(free/paid) [[open source](https://github.com/unplugred/vsts)]*
 > 
 > ![prisma](images/prisma.jpg)
@@ -99,7 +98,7 @@ A curated list of free/pay-what-you-want plugins and tools for musicians :)
 
 > ### [Giant Verb](https://sites.google.com/site/digitalsystemic/home/giant-verb) by [Digital Systemic](https://sites.google.com/site/digitalsystemic/) *(free)*
 > 
-> ![giant verb.jpg](images/giant%20verb.jpg)
+> ![giant verb.jpg](images/giantverb.jpg)
 > 
 > Probably the best sounding free "normal" (as in not weird/specific) reverb I have found. Just perfect for vocals :)
 
