@@ -4,7 +4,7 @@ A curated list of free/pay-what-you-want plugins and tools for musicians :)
 
 # Effects
 
-## Distortion
+## Distortion/Saturation
 
 > ### [Pisstortion](https://vst.unplug.red/pisstortion) by [unplugred](https://vst.unplug.red) *(free/paid) [[open source](https://github.com/unplugred/vsts)]*
 > 
