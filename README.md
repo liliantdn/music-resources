@@ -93,6 +93,7 @@ A curated list of free/pay-what-you-want plugins and tools for musicians :)
 > ### [LatticeReverb](https://github.com/ryukau/VSTPlugins/releases) by [Uhhyou](https://ryukau.github.io/VSTPlugins/) *(free) [[open source](https://github.com/ryukau/VSTPlugins)]*
 > 
 > ![LatticeReverb](images/latticereverb.jpg)
+> 
 > A very cool reverb, with a sound that's hard to match with anything else.
 
 > ### [Giant Verb](https://sites.google.com/site/digitalsystemic/home/giant-verb) by [Digital Systemic](https://sites.google.com/site/digitalsystemic/) *(free)*
