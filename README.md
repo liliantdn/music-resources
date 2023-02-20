@@ -22,9 +22,10 @@ A curated list of free/pay-what-you-want plugins and tools for musicians :)
 > 
 > ![MackEQ](images/mackeq.jpg)
 > 
-> **[▶ Demo video](https://www.youtube.com/watch?v=MH_rkK4keB8)**
-> 
 > This plugin will FLATTEN your sound, I probably use it more than I should.
+> 
+> **[▶ Demo video](https://www.youtube.com/watch?v=MH_rkK4keB8)**
+
 
 > ### [Prisma](https://vst.unplug.red/prisma) by [unplugred](https://vst.unplug.red) *(free/paid) [[open source](https://github.com/unplugred/vsts)]*
 > 
