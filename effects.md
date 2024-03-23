@@ -153,7 +153,7 @@ nav_order: 2
 > 
 > This plugin will individually gate each fft """band""" which means it will generally get rid of "noise" in most sounds but it can be used for soooo much in terms of sound design, higher fft sizes will make your sounds all swooshy and lower ones sound like some kind of alien compression artefact it's very cool.
 > 
-### [**▶ Demo Video**](https://youtu.be/PxL0OAgxjAY)
+[**▶ Demo Video**](https://youtu.be/PxL0OAgxjAY)
 {: .no_toc }
 
 ### [Corkscrew](https://plugins4free.com/plugin/1867/) by Anarchy Sound Software (free)
@@ -170,7 +170,7 @@ nav_order: 2
 > 
 > I use this one mostly for the random phase slider, it will make your stuff v e r y  w i d e.
 > 
-### [**▶ Demo video**](https://youtu.be/qGX1eLIMen0)
+[**▶ Demo video**](https://youtu.be/qGX1eLIMen0)
 {: .no_toc }
 
 ### [Bin Scrambler](https://www.andrewreeman.com/spectralsuite/) by [Andrew Reeman](https://github.com/andrewreeman) *(free) [[open source](https://github.com/andrewreeman/SpectralSuite)]*
@@ -180,7 +180,7 @@ nav_order: 2
 > 
 > This is a very cool effect, it takes each fft "band" and frequency shifts it at random.
 > 
-### [**▶ Demo video**](https://youtu.be/jHky7Vbqz6U)
+ [**▶ Demo video**](https://youtu.be/jHky7Vbqz6U)
 {: .no_toc }
 
 ## Granular
