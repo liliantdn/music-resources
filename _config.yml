@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: music-resources
+description:  A curated list of free/pay-what-you-want plugins and tools for musicians :) 
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://liliantdn.github.io/music-resources/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
