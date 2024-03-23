@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Effects
 layout: default
 nav_order: 2
 ---
@@ -17,8 +17,7 @@ nav_order: 2
 
 ## Distortion/Saturation
 
-> ### [Pisstortion](https://vst.unplug.red/pisstortion) by [unplugred](https://vst.unplug.red) *(free/paid) [[open source](https://github.com/unplugred/vsts)]*
-{: .no_toc }
+> ### [Pisstortion](https://vst.unplug.red/pisstortion) by [unplugred](https://vst.unplug.red) *(free/paid) [[open source](https://github.com/unplugred/vsts)]*{: .no_toc }
 > 
 > ![pisstortion](images/pisstortion.jpg)
 > 
