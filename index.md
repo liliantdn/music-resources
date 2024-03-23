@@ -1,7 +1,16 @@
 ---
 title: Home
-layout: home
+layout: minimal
 ---
+# Navigation Structure
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
 
 # music-resources
 
