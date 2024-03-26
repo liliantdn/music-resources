@@ -44,7 +44,7 @@ nav_order: 2
 > 
 > This plugin will FLATTEN your sound, I probably use it more than I should.
 > 
-> **[▶ Demo video](https://www.youtube.com/watch?v=MH_rkK4keB8)**
+> [▶ Demo video](https://www.youtube.com/watch?v=MH_rkK4keB8){: .btn .btn-outline }
 
 [Get](https://www.airwindows.com/mackeq/){: .btn .btn-blue }
 [Support](https://www.patreon.com/airwindows){: .btn .btn-outline }
@@ -199,7 +199,7 @@ nav_order: 2
 > 
 > This plugin will individually gate each fft """band""" which means it will generally get rid of "noise" in most sounds but it can be used for soooo much in terms of sound design, higher fft sizes will make your sounds all swooshy and lower ones sound like some kind of alien compression artefact it's very cool.
 > 
-[**▶ Demo Video**](https://youtu.be/PxL0OAgxjAY)
+> [▶ Demo Video](https://youtu.be/PxL0OAgxjAY){: .btn .btn-outline }
 
 [Get](https://www.andrewreeman.com/spectralsuite/){: .btn .btn-blue }
 
@@ -219,7 +219,7 @@ nav_order: 2
 > 
 > I use this one mostly for the random phase slider, it will make your stuff v e r y  w i d e.
 > 
-[**▶ Demo video**](https://youtu.be/qGX1eLIMen0)
+> [▶ Demo video](https://youtu.be/qGX1eLIMen0){: .btn .btn-outline }
 
 [Get](https://www.andrewreeman.com/spectralsuite/){: .btn .btn-blue }
 
@@ -230,7 +230,7 @@ nav_order: 2
 > 
 > This is a very cool effect, it takes each fft "band" and frequency shifts it at random.
 > 
-[**▶ Demo video**](https://youtu.be/jHky7Vbqz6U)
+> [▶ Demo video](https://youtu.be/jHky7Vbqz6U){: .btn .btn-outline }
 
 [Get](https://www.andrewreeman.com/spectralsuite/){: .btn .btn-blue }
 
@@ -291,7 +291,7 @@ nav_order: 2
 > 
 > Another spatialization plugin, this one lets you visually place a sound in a room and give it "fake" width, it has a very nice sound. Only thing I wish it did is let you put sounds behind the listener, but still very good and fun to play with!!!
 > 
-> **[▶ Demo video](https://youtu.be/LGIGBfR0ie4)**
+> [▶ Demo video](https://youtu.be/LGIGBfR0ie4){: .btn .btn-outline }
 
 [Get](https://drive.google.com/file/d/13HBo9A6cnrj2PGr3fAEZ7hqQ5cmD3Fbw/view){: .btn .btn-blue }
 
