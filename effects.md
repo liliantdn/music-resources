@@ -230,7 +230,7 @@ nav_order: 2
 > 
 > This is a very cool effect, it takes each fft "band" and frequency shifts it at random.
 > 
-> [▶ Demo video](https://youtu.be/jHky7Vbqz6U){: .btn .btn-outline }
+> [▶ Demo video](https://youtu.be/jHky7Vbqz6U){: .btn .btn-outline target="_blank"}
 
 [Get](https://www.andrewreeman.com/spectralsuite/){: .btn .btn-blue }
 
