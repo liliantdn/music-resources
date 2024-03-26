@@ -16,12 +16,12 @@ nav_order: 1
 
 A curated list of free/pay-what-you-want plugins and tools for musicians :)
 
-# Effects
+## Effects
 [View effects](https://liliantdn.github.io/music-resources/effects.html){: .btn .btn-blue }
 
-# Generators
+## Generators
 [View generators](https://liliantdn.github.io/music-resources/generators.html){: .btn .btn-blue }
 
-# Software
+## Software
 [View software](https://liliantdn.github.io/music-resources/software.html){: .btn .btn-blue }
 
