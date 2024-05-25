@@ -245,14 +245,14 @@ nav_order: 2
 
 [Get](https://mourednik.github.io/argotlunar/#download){: .btn .btn-blue target="_blank"}
 
-### [**JG-Granular**](https://github.com/szkkng/jg-granular/releases) by [Kengo](https://github.com/szkkng) *(free) [[open source](https://github.com/szkkng/jg-granular)]*
+### [**JR-Granular**](https://github.com/szkkng/jr-granular) by [Kengo](https://github.com/szkkng) *(free) [[open source](https://github.com/szkkng/jr-granular)]*
 {: .no_toc }
 > 
-> ![jggranular.jpg](images/jggranular.jpg)
+> ![jrgranular.jpg](images/jrgranular.jpg)
 > 
 > Fairly basic granular plugin but still very very useful
 
-[Get](https://github.com/szkkng/jg-granular/releases){: .btn .btn-blue target="_blank"}
+[Get](https://github.com/szkkng/jr-granular/releases){: .btn .btn-blue target="_blank"}
 
 ## Panning/Spatialization/Stereo Width
 
